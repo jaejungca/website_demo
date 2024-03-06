@@ -4,6 +4,8 @@ title: "demo2"
 
 This is a Quarto website.
 
+TRI planning
+
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
 ```{r}
